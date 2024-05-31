@@ -1,0 +1,56 @@
+#############################################################
+# Paste test factors here.
+# Check the documents for more details.
+# https://github.com/Microsoft/pict/blob/master/doc/pict.md
+#############################################################
+
+
+jun2024: Checked, Unchecked
+jul2024: Checked, Unchecked
+ago2024: Checked, Unchecked
+set2024: Checked, Unchecked
+out2024: Checked, Unchecked
+nov2024: Checked, Unchecked
+dez2024: Checked, Unchecked
+jan2025: Checked, Unchecked
+fev2025: Checked, Unchecked
+mar2025: Checked, Unchecked
+abr2025: Checked, Unchecked
+mai2025: Checked, Unchecked
+jun2025: Checked, Unchecked
+jul2025: Checked, Unchecked
+ago2025: Checked, Unchecked
+set2025: Checked, Unchecked
+out2025: Checked, Unchecked
+nov2025: Checked, Unchecked
+dez2025: Checked, Unchecked
+
+Alaska Cruises: Checked, Unchecked
+Bahamas Cruises: Checked, Unchecked
+Caribbean Cruises: Checked, Unchecked
+Europe Cruises: Checked, Unchecked
+Hawai'i Cruises: Checked, Unchecked
+Mexico Cruises: Checked, Unchecked
+New Zealand and Australia Cruises: Checked, Unchecked
+Pacific Coast Cruises: Checked, Unchecked
+South Pacific Cruises: Checked, Unchecked
+Transatlantic Cruises: Checked, Unchecked
+
+Auckland, New Zealand: Checked, Unchecked
+Barcelona, Spain: Checked, Unchecked
+Brisbane, Australia: Checked, Unchecked
+Civitavecchia (Rome), Italy: Checked, Unchecked
+Fort Lauderdale, Florida: Checked, Unchecked
+Galveston, Texas: Checked, Unchecked
+Honolulu, Hawai'i: Checked, Unchecked
+Melbourne, Australia: Checked, Unchecked
+Port Canaveral, Florida: Checked, Unchecked
+San Diego, California: Checked, Unchecked
+San Juan, Puerto Rico: Checked, Unchecked
+Southampton, England: Checked, Unchecked
+Sydney, Australia: Checked, Unchecked
+Vancouver (British Columbia), Canada: Checked, Unchecked
+
+Children: 1, 2, 3, 4, 5
+Adult: 1, 2, 3, 4, 5
+ChildrenAge: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
